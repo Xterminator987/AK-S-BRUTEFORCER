@@ -8,3 +8,6 @@ A brute-forcing software using selenium
 (Must have python)
 pip install selenium
 pip install webdriver-manager
+
+
+*100000 passwords included*
